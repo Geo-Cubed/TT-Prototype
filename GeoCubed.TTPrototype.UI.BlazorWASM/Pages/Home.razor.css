@@ -16,7 +16,7 @@
     height: 200px;
     width: 50px;
     border: solid 2px grey;
-    background-color: transparent;
+    background-color: white;
     color: black;
     border-radius: 25px 0px 0px 25px;
     border-right: none;
@@ -45,6 +45,7 @@
 .sidepanelContainer {
     background-color: white;
     border-left: solid 2px grey;
+    transition: 0.5s;
 }
 
 .btnPillDanger {
