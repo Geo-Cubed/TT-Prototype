@@ -1,0 +1,57 @@
+.sidepanel[b-xhd26nswse] {
+    max-height: 100vh;
+    height: 100vh;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    right: 0;
+    overflow: hidden;
+    transition: 0.5s;
+    display: flex;
+    flex-direction: row;
+}
+
+.sidepanelOpenBtn[b-xhd26nswse] {
+    margin: auto;
+    height: 200px;
+    width: 50px;
+    border: solid 2px grey;
+    background-color: white;
+    color: black;
+    border-radius: 25px 0px 0px 25px;
+    border-right: none;
+}
+
+.btnText[b-xhd26nswse] {
+    display: inline-block;
+    transform: rotate(-90deg);
+}
+
+.sidepanelCloseBtn[b-xhd26nswse] {
+    border: none;
+    background-color: transparent;
+    color: black;
+    font-size: 24px;
+    text-decoration-line: none;
+}
+
+.sidepanelListContainer[b-xhd26nswse] {
+    padding: 2px;
+    background-color: white;
+    overflow-y: auto;
+    max-height: 95vh;
+}
+
+.sidepanelContainer[b-xhd26nswse] {
+    background-color: white;
+    border-left: solid 2px grey;
+    transition: 0.5s;
+}
+
+.btnPillDanger[b-xhd26nswse] {
+    border-radius: 25px;
+    font-size: 18px;
+    color: red;
+    background-color: white;
+    border: solid 2px red;
+}

@@ -1,0 +1,1 @@
+E:\C#\3.Git\TT-Prototype\GeoCubed.TTPrototype.UI.BlazorWASM\obj\Release\net8.0\browser-wasm\PubTmp\Out\web.config

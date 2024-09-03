@@ -1,0 +1,77 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\C#\\3.Git\\TT-Prototype\\GeoCubed.TTPrototype.UI.BlazorWASM\\Shared\\SortableList.razor.js",
+      "PackagePath": "staticwebassets\\Shared\\SortableList.razor.js"
+    },
+    {
+      "Id": "E:\\C#\\3.Git\\TT-Prototype\\GeoCubed.TTPrototype.UI.BlazorWASM\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "E:\\C#\\3.Git\\TT-Prototype\\GeoCubed.TTPrototype.UI.BlazorWASM\\obj\\Debug\\net8.0\\compressed\\72vvwduv8h.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "E:\\C#\\3.Git\\TT-Prototype\\GeoCubed.TTPrototype.UI.BlazorWASM\\obj\\Debug\\net8.0\\scopedcss\\bundle\\GeoCubed.TTPrototype.UI.BlazorWASM.styles.css",
+      "PackagePath": "staticwebassets\\GeoCubed.TTPrototype.UI.BlazorWASM.styles.css"
+    },
+    {
+      "Id": "E:\\C#\\3.Git\\TT-Prototype\\GeoCubed.TTPrototype.UI.BlazorWASM\\obj\\Debug\\net8.0\\service-worker-assets.js",
+      "PackagePath": "staticwebassets\\service-worker-assets.js"
+    },
+    {
+      "Id": "E:\\C#\\3.Git\\TT-Prototype\\GeoCubed.TTPrototype.UI.BlazorWASM\\obj\\Debug\\net8.0\\service-worker\\service-worker.published.js",
+      "PackagePath": "staticwebassets\\service-worker.js"
+    },
+    {
+      "Id": "E:\\C#\\3.Git\\TT-Prototype\\GeoCubed.TTPrototype.UI.BlazorWASM\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "E:\\C#\\3.Git\\TT-Prototype\\GeoCubed.TTPrototype.UI.BlazorWASM\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\C#\\3.Git\\TT-Prototype\\GeoCubed.TTPrototype.UI.BlazorWASM\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\C#\\3.Git\\TT-Prototype\\GeoCubed.TTPrototype.UI.BlazorWASM\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "E:\\C#\\3.Git\\TT-Prototype\\GeoCubed.TTPrototype.UI.BlazorWASM\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "E:\\C#\\3.Git\\TT-Prototype\\GeoCubed.TTPrototype.UI.BlazorWASM\\wwwroot\\icon-512.png",
+      "PackagePath": "staticwebassets\\icon-512.png"
+    },
+    {
+      "Id": "E:\\C#\\3.Git\\TT-Prototype\\GeoCubed.TTPrototype.UI.BlazorWASM\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "E:\\C#\\3.Git\\TT-Prototype\\GeoCubed.TTPrototype.UI.BlazorWASM\\wwwroot\\manifest.webmanifest",
+      "PackagePath": "staticwebassets\\manifest.webmanifest"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.GeoCubed.TTPrototype.UI.BlazorWASM.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.GeoCubed.TTPrototype.UI.BlazorWASM.props",
+      "PackagePath": "build\\GeoCubed.TTPrototype.UI.BlazorWASM.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.GeoCubed.TTPrototype.UI.BlazorWASM.props",
+      "PackagePath": "buildMultiTargeting\\GeoCubed.TTPrototype.UI.BlazorWASM.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.GeoCubed.TTPrototype.UI.BlazorWASM.props",
+      "PackagePath": "buildTransitive\\GeoCubed.TTPrototype.UI.BlazorWASM.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

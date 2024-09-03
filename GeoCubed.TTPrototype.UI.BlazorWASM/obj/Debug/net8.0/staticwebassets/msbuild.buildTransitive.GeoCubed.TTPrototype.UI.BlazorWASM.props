@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\GeoCubed.TTPrototype.UI.BlazorWASM.props" />
+</Project>
