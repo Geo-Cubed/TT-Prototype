@@ -7,8 +7,6 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UI", "UI", "{EF51558F-CA82-
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GeoCubed.TTPrototype.UI.BlazorWASM", "GeoCubed.TTPrototype.UI.BlazorWASM\GeoCubed.TTPrototype.UI.BlazorWASM.csproj", "{29B150DF-1249-4C8A-A6DB-8B6E969D03ED}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GeoCubed.TTPrototype.UI.Components", "GeoCubed.TTPrototype.UI.Components\GeoCubed.TTPrototype.UI.Components.csproj", "{3403A0B2-57FC-43C9-B85D-F5A80A331942}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,16 +17,11 @@ Global
 		{29B150DF-1249-4C8A-A6DB-8B6E969D03ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{29B150DF-1249-4C8A-A6DB-8B6E969D03ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{29B150DF-1249-4C8A-A6DB-8B6E969D03ED}.Release|Any CPU.Build.0 = Release|Any CPU
-		{3403A0B2-57FC-43C9-B85D-F5A80A331942}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{3403A0B2-57FC-43C9-B85D-F5A80A331942}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{3403A0B2-57FC-43C9-B85D-F5A80A331942}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{3403A0B2-57FC-43C9-B85D-F5A80A331942}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{29B150DF-1249-4C8A-A6DB-8B6E969D03ED} = {EF51558F-CA82-47C9-8939-BF5B5BC11F67}
-		{3403A0B2-57FC-43C9-B85D-F5A80A331942} = {EF51558F-CA82-47C9-8939-BF5B5BC11F67}
 	EndGlobalSection
 EndGlobal

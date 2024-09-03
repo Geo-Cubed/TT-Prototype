@@ -1,0 +1,56 @@
+﻿.sidepanel {
+    max-height: 100vh;
+    height: 100vh;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    right: 0;
+    overflow: hidden;
+    transition: 0.5s;
+    display: flex;
+    flex-direction: row;
+}
+
+.sidepanelOpenBtn {
+    margin: auto;
+    height: 200px;
+    width: 50px;
+    border: solid 2px grey;
+    background-color: transparent;
+    color: black;
+    border-radius: 25px 0px 0px 25px;
+    border-right: none;
+}
+
+.btnText {
+    display: inline-block;
+    transform: rotate(-90deg);
+}
+
+.sidepanelCloseBtn {
+    border: none;
+    background-color: transparent;
+    color: black;
+    font-size: 24px;
+    text-decoration-line: none;
+}
+
+.sidepanelListContainer {
+    padding: 2px;
+    background-color: white;
+    overflow-y: auto;
+    max-height: 95vh;
+}
+
+.sidepanelContainer {
+    background-color: white;
+    border-left: solid 2px grey;
+}
+
+.btnPillDanger {
+    border-radius: 25px;
+    font-size: 18px;
+    color: red;
+    background-color: white;
+    border: solid 2px red;
+}
